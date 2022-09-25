@@ -15,6 +15,7 @@ int main()
         scanf("%d",&recebeAno);
         flagDataValidada = validaData(recebeDia, recebeMes, recebeAno);                // processamento de dados
     }while(flagDataValidada == 0);
+    // adicionei esse comentário
 
     return 0;
 }
