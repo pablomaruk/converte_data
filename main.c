@@ -16,6 +16,7 @@ int main()
         flagDataValidada = validaData(recebeDia, recebeMes, recebeAno);                // processamento de dados
     }while(flagDataValidada == 0);
     // adicionei esse comentário
+    // mais outro comentário
 
     return 0;
 }
