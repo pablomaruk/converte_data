@@ -1,0 +1,12 @@
+#define JAN 1
+#define FEV 2
+#define MAR 3
+#define ABR 4
+#define MAI 5
+#define JUN 6
+#define JUL 7
+#define AGO 8
+#define SET 9
+#define OUT 10
+#define NOV 11
+#define DEZ 12
